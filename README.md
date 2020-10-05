@@ -11,6 +11,13 @@ This research has been described in a paper by Laevens, ten Bosch, Pijpers and v
 
 [2016 daily yields per municipality, every day](pv_daily_2016.gif)
 
+Yearly regional totals:
+
+![2016](pv_yearly_2016 "Yearly regional totals 2016")
+
+![2017](pv_yearly_2017 "Yearly regional totals 2017")
+
+
 
 ## License
 
