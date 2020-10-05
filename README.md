@@ -1,5 +1,7 @@
 # solarvisuals
-Visual output of research from Statistics Netherlands on solar panel data
+Visual output of research from Statistics Netherlands on solar panel data.
+Research has been described in
+[Laevens, ten Bosch, Pijpers and van Sark, Observationally daily and regional photovoltaic solar energy production for the Netherlands](https://arxiv.org/abs/2003.01728)
 
 ## Animated gifs
 
