@@ -3,9 +3,9 @@ Visual output of research from Statistics Netherlands on solar panel data
 
 ## Animated gifs
 
-[2016 daily yields per municipality, every 7th day](pv_daily_2016_every7thday.gif)
+[2016 daily yields per municipality, every day](pv_daily_2016.gif)
 
-[2016 daily yields per municipality, every day (big)](pv_daily_2016.gif)
+[2016 daily yields per municipality, every 7th day](pv_daily_2016_every7thday.gif)
 
 
 ## License
