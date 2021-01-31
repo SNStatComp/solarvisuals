@@ -13,9 +13,9 @@ This research has been described in a paper by Laevens, ten Bosch, Pijpers and v
 
 ## Yearly regional totals:
 
-![2016](pv_yearly_2016.png "Yearly regional totals 2016")
+![2016](20210131_4_2016_EN.png "Yearly regional totals 2016")
 
-![2017](pv_yearly_2017.png "Yearly regional totals 2017")
+![2017](20210131_5_2017_EN.png "Yearly regional totals 2017")
 
 
 
